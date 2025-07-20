@@ -7,8 +7,6 @@ import "aos/dist/aos.css";
 import barberBg from "../assets/background.png";
 import appointmentImg from "../assets/about.png";
 import hairdresserImg from "../assets/men.png";
-import middleimage from "../assets/Middle.png";
-import Logo from "../assets/Logo.png"
 
 export default function HomePage() {
     const [menuOpen, setMenuOpen] = useState(false);
